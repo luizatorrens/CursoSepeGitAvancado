@@ -2,11 +2,11 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: linear-gradient(90deg, hsla(282, 58%, 47%, 1) 0%, 
-                                       hsla(210, 80%, 29%, 1) 25%, 
-                                       rgb(15, 133, 113) 50%, 
-                                       hsla(210, 80%, 29%, 1) 75%,  
-                                       hsla(282, 58%, 47%, 1) 100%);
+    background: linear-gradient(90deg, rgb(97, 224, 140) 0%, 
+                                       rgb(149, 202, 255) 25%, 
+                                       rgb(207, 114, 216) 50%, 
+                                       rgb(98, 149, 201) 75%,  
+                                       rgb(55, 75, 85) 100%);
     animation: gradient 40s ease infinite;
     background-size: 300% 300%;
 }
